@@ -22,7 +22,7 @@ insert into Employee values(3,'parth','parth12@gmail.com','jamnagar','12345678',
 insert into Employee values(4,'Jay','jay12@gmail.com','jamnagar','123','2024-6-10',60000,3)
 insert into Employee values(5,'Mohit', Null ,'jamnagar','123','2024-6-10',60000,2)
 insert into Employee values(6,'Mudit','Mudit@gmail.com','jamnagar', Null ,'2024-6-10',60000,1)
-insert into Employee values(7,'Mayur','Mayur@gmail.com','rajkot', Null ,'2024-6-10',50000,1)
+insert into Employee values(7,'Yash','Mayur@gmail.com','rajkot', Null ,'2024-6-10',50000,1)
 ```
 
 ## 1. List all Employees Which belongs to jamnagar
