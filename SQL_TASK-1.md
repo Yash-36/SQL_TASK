@@ -124,7 +124,7 @@ WHERE d.DeptName = 'Mechanical';
 ```SQL
 UPDATE Employee 
 SET City = 'Pune' 
-WHERE EmpID = 7 AND Name = 'Mayur';
+WHERE EmpID = 7 AND Name = 'Yash';
 ```
 
 ## 12. Delete all the employees who belong to HR Department & Salary is more than 45,000
